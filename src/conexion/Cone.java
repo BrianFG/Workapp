@@ -32,8 +32,13 @@ public class Cone {
 		String password = "alabado";*/
 		
 		
-		
+		/*
 		String url = "jdbc:mysql://mysql162126-workapp2.jelastic.servint.net/workapp";
+		String driver = "com.mysql.jdbc.Driver";
+		String user = "admin";
+		String password = "admin";*/
+		
+		String url = "jdbc:mysql://mysql6469-workapp2.jl.serv.net.mx/workapp";
 		String driver = "com.mysql.jdbc.Driver";
 		String user = "admin";
 		String password = "admin";

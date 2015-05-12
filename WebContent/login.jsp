@@ -20,7 +20,7 @@
     	altura = users.getString(4);
     	fecha = users.getString(5);
     }
-    json += "\"id\":" + "\"" + id + "\" , \"nombre\":" + "\"" + nombre + "\" \"peso\":" + "\"" + peso + "\" , \"altura\":" + "\"" + altura + "\" , \"fecha\":" + "\"" + fecha + "\"}]";
+    json += "\"id\":" + "\"" + id + "\" , \"nombre\":" + "\"" + nombre + "\" , \"peso\":" + "\"" + peso + "\" , \"altura\":" + "\"" + altura + "\" , \"fecha\":" + "\"" + fecha + "\"}]";
     
     
     %>
